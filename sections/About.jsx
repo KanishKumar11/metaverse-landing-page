@@ -22,7 +22,7 @@ const About = () => (
      distinctio <span className='font-extrabold text-white'>asperiores </span> doloribus sed nobis. Quidem nostrum a accusantium veritatis maiores deleniti quasi quod velit mollitia alias reprehenderit <span className='font-extrabold text-white'>oooyui </span> molestias deserunt repudiandae culpa quas aperiam placeat, dolorem aliquid amet porro enim. Tenetur aliquam error non?
 
     </motion.p>
-    <motion.img variants={fadeIn('up','tween',0.3, 1)} src="/arrow-down.svg" className='w-[18px] h-[28px] object-contain mt-[28px]'>
+    <motion.img variants={fadeIn('up','tween',0.3, 1)} src="./arrow-down.svg" className='w-[18px] h-[28px] object-contain mt-[28px]'>
 
     </motion.img>
     </motion.div>
