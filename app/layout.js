@@ -5,6 +5,8 @@ const RootLayout = ({ children }) => (
     <head>
       <link rel="preconnect" href="https://stijndv.com" />
       <link rel="stylesheet" href="https://stijndv.com/fonts/Eudoxus-Sans.css" />
+      <meta name="language" content="English" />
+      <meta charset="UTF-8" />
     </head>
     <body>{children}</body>
   </html>
